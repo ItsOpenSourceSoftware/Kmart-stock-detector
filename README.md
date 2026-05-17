@@ -1,4 +1,6 @@
 # Kmart.com.au stock detector
+> [!WARNING]
+> This project is currently unmaintained due to changes in the Kmart Australia stock API.
 Its finds and detects store stocks in bulk in a skus.txt file, stock count is based of the kmart aus stock api endpoint i found using the network tab in my firefox webtools.
 
 IMPORTANT: MAKE SURE YOU PUT THE skus.txt FILE INTO THE SAME FOLDER AS THE SCRIPT FILE OR IT WONT WORK!
